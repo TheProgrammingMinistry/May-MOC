@@ -1,4 +1,3 @@
-Sure! Here's a customized `README.md` for the exact code you provided:
 
 ---
 
